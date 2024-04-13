@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/1-introduction
+
+https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/sales.csv
+https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/orders.csv
